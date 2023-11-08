@@ -7,18 +7,13 @@ I'm a UI/UX Designer with a passion for creating engaging digital experiences. W
 - 🌱 Currently, I'm diving into the world of Git, GitHub, and Markdown to expand my technical skill set.
 - 🌍 As a globetrotter in the tech world, I'm on a journey to make the web a more beautiful and user-friendly place.
 
-### 🚀 What You'll Find Here
-
-- 📦 **Projects:** Check out my featured projects below, including UI/UX designs, contributions to open-source, and personal initiatives.
-- ✍️ **Blogs & Articles:** Explore my writings on design, tech, and the world of open source.
-- 🎵 **A dash of Poetry:** I'm as passionate about great music and poetry as I am about design. You might stumble upon my creative side here.
-
 ### 🤝 Let's Connect
 
 - 📧 **Email:** Feel free to reach out via email at [ndukavictoria7@gmail.com]
 - 💬 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/victorianduka).
 - 📚 **Blog:** Explore my thoughts on design, life, and tech on my [blog](https://medium.com/ndukavictoria7).
-
+- 📦 **Projects:** Check out my featured projects on [Behance](https://www.behance.net/victorianduka).
+  
 ### 🌼 Fun Facts
 
 - 👑 I have a special love for afro hair, embracing its beauty and cultural significance.
