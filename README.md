@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Victoria, daughter of Nduka.
 
-I'm a UI/UX Designer with a passion for creating engaging digital experiences. Welcome to my GitHub profile!
+I'm a UI/UX Designer with a passion for creating engaging digital experiences.
 
 - 💼 I've had the pleasure of contributing to open-source projects like Layer5, Meshery, and Oppia, thanks to their welcoming communities.
 - 🎨 My design skills span visual design and content creation. I craft beautiful interfaces with Figma, Canva, and Google Workspace.
@@ -16,8 +16,17 @@ I'm a UI/UX Designer with a passion for creating engaging digital experiences. W
   
 ### 🌼 Fun Facts
 
-- 👑 I have a special love for afro hair, embracing its beauty and cultural significance.
+- 👑 I have a special love for afro hair due to its cultural significance.
 - 📖 Poetry is my sanctuary, and I often find inspiration in the beauty of words.
 - 🎶 I love good music, regardless of the genre, as long as the lyrics are great.
 
-Thank you for stopping by. Let's create, learn, and explore together! 🌟
+
+
+🌟Check out these cool badges I earned as a [Meshery](meshery.io) User and Contributor.
+
+<a href= "https://meshery.layer5.io/user/3011fa51-84c4-444e-a072-ec1cad9885b0?tab=badges">
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" />
+  </a >
+ <a href= "https://meshery.layer5.io/user/3011fa51-84c4-444e-a072-ec1cad9885b0?tab=badges">
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
