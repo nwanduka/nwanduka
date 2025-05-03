@@ -32,4 +32,4 @@ I’m a UX designer turned cloud enthusiast with a strong passion for accessibil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorianduka)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://nwanduka.vzy.io)
 > Disclaimer:
-My portfolio—like me—is a work in progress. The current content reflects my earlier journey in UX design and may not fully represent where I am now in tech. I've recently bought a domain and plan to rebuild this site myself as a personal project once I’ve gained more hands-on experience in cloud engineering.
+My portfolio, like me, is a work in progress. The current content reflects my earlier journey in UX design and may not fully represent where I am now in tech. I've recently bought a domain and plan to rebuild this site myself as a personal project once I’ve gained more hands-on experience in cloud engineering.
