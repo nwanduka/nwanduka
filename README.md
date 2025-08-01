@@ -1,28 +1,39 @@
-## 👋 Hello, I'm Victoria, daughter of Nduka.
+# 👋 Hi, I'm Victoria Nduka!
+I’m a UX designer turned cloud enthusiast with a strong passion for accessibility, open-source contributions, and tech education. I'm currently diving into cloud engineering, building systems and solutions that are scalable, efficient, and inclusive.
 
-I'm a UI/UX Designer with a passion for creating engaging digital experiences. Welcome to my GitHub profile!
+## 💻 What I Do
 
-- 💼 I've had the pleasure of contributing to open-source projects like Layer5, Meshery, and Oppia, thanks to their welcoming communities.
-- 🎨 My design skills span visual design and content creation. I craft beautiful interfaces with Figma, Canva, and Google Workspace.
-- 🌱 Currently, I'm diving into the world of Git, GitHub, and Markdown to expand my technical skill set.
-- 🌍 As a globetrotter in the tech world, I'm on a journey to make the web a more beautiful and user-friendly place.
+<div align="center">
+  
+  <table>
+    <tr>
+      <td><strong>🖍️ UX Design</strong><br>Designing intuitive and accessible interfaces focused on users’ needs.</td>
+      <td><strong>☁️ Cloud Engineering</strong><br>Building and deploying scalable cloud solutions using AWS, Azure, and GCP.</td>
+    </tr>
+    <tr>
+      <td><strong>♿ Accessibility Advocacy</strong><br>Conducting audits and pushing for inclusive digital experiences.</td>
+      <td><strong>✍🏾 Writing</strong><br>Breaking down complex tech topics in articles on design, open source, web accessibility, and cloud tech.</td>
+    </tr>
+    <tr>
+      <td><strong>🎤 Public Speaking</strong><br>Speaking at events about the anything and everything design, accessibility, open source, and cloud tech.</td>
+      <td><strong>📚 Learning</strong><br>Life-long learning about anything that interests me: tech, music, fashion, etc.</td>
+    </tr>
+  </table>
+</div>
 
-### 🚀 What You'll Find Here
+## 🌱 I’m currently learning:
 
-- 📦 **Projects:** Check out my featured projects below, including UI/UX designs, contributions to open-source, and personal initiatives.
-- ✍️ **Blogs & Articles:** Explore my writings on design, tech, and the world of open source.
-- 🎵 **A dash of Poetry:** I'm as passionate about great music and poetry as I am about design. You might stumble upon my creative side here.
+- Cloud platforms and services (AWS, GCP, Azure)
+- Infrastructure as Code (IaC) with tools like Terraform
+- DevOps practices for efficient cloud workflows
 
-### 🤝 Let's Connect
+## 🔗 Let’s Connect:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nwa_nduka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorianduka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://nwanduka.vzy.io)
+> Disclaimer:
+My portfolio, like me, is a work in progress. The current content reflects my earlier journey in UX design and may not fully represent where I am now in tech. I've recently bought a domain and plan to rebuild this site myself as a personal project once I’ve gained more hands-on experience in cloud engineering.
 
-- 📧 **Email:** Feel free to reach out via email at [ndukavictoria7@gmail.com]
-- 💬 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/victorianduka).
-- 📚 **Blog:** Explore my thoughts on design, life, and tech on my [blog](https://medium.com/ndukavictoria7).
+<br>
 
-### 🌼 Fun Facts
-
-- 👑 I have a special love for afro hair, embracing its beauty and cultural significance.
-- 📖 Poetry is my sanctuary, and I often find inspiration in the beauty of words.
-- 🎶 I love good music, regardless of the genre, as long as the lyrics are great.
-
-Thank you for stopping by. Let's create, learn, and explore together! 🌟
+[![DevStats Card](https://devstats.me/?username=nwanduka)](https://github.com/tico88612/devstats-card)
