@@ -30,7 +30,7 @@ I’m a UX designer turned cloud enthusiast with a strong passion for accessibil
 ## 🔗 Let’s Connect:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nwa_nduka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorianduka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://nwanduka.vzy.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://victorianduka.com)
 
 <br>
 
