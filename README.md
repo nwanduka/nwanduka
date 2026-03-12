@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Victoria Nduka!
-I’m a UX designer turned cloud enthusiast with a strong passion for accessibility, open-source contributions, and tech education. I'm currently diving into cloud engineering, building systems and solutions that are scalable, efficient, and inclusive.
+I’m a cloud engineer with a background in UX design and a strong passion for accessibility, open-source software, and tech education.
 
 ## 💻 What I Do
 
