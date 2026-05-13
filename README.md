@@ -7,25 +7,21 @@ I’m a cloud engineer with a background in UX design and a strong passion for a
   
   <table>
     <tr>
-      <td><strong>🖍️ UX Design</strong><br>Designing intuitive and accessible interfaces focused on users’ needs.</td>
-      <td><strong>☁️ Cloud Engineering</strong><br>Building and deploying scalable cloud solutions using AWS, Azure, and GCP.</td>
-    </tr>
-    <tr>
-      <td><strong>♿ Accessibility Advocacy</strong><br>Conducting audits and pushing for inclusive digital experiences.</td>
+      <td><strong>☁️ Cloud Engineering</strong><br>Building and deploying scalable cloud solutions.</td>
       <td><strong>✍🏾 Writing</strong><br>Breaking down complex tech topics in articles on design, open source, web accessibility, and cloud tech.</td>
     </tr>
     <tr>
-      <td><strong>🎤 Public Speaking</strong><br>Speaking at events about the anything and everything design, accessibility, open source, and cloud tech.</td>
-      <td><strong>📚 Learning</strong><br>Life-long learning about anything that interests me: tech, music, fashion, etc.</td>
+      <td><strong>♿ Accessibility Advocacy</strong><br>Conducting audits and pushing for inclusive digital experiences.</td>
+      <td><strong>🎤 Public Speaking</strong><br>Speaking at events about design, accessibility, open source, and cloud technology.</td>
     </tr>
   </table>
 </div>
 
 ## 🌱 I’m currently learning:
 
-- Cloud platforms and services (AWS, GCP, Azure)
-- Infrastructure as Code (IaC) with tools like Terraform
-- DevOps practices for efficient cloud workflows
+- Linux
+- Kubernetes
+- CI/CD
 
 ## 🔗 Let’s Connect:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nwa_nduka)
